@@ -20,11 +20,12 @@ K-Means clustering is an unsupervised machine learning algorithm used for data c
 ## Interpretation of Results
 Based on the resulting groups from K-Means clustering, we interpreted the customer segments and categorized them into four distinct groups:
 
-Group 0: Former best customers - departing
-Group 1: Best customers - active
-Group 2: Old and random customers - inactive
-Group 3: New and random customers - new
-Marketing Strategies
+- Group 0: Former best customers - departing
+- Group 1: Best customers - active
+- Group 2: Old and random customers - inactive
+- Group 3: New and random customers - new
+
+## Marketing Strategies
 We proposed tailored marketing strategies for each customer segment based on the insights gained from the analysis. These strategies aim to optimize customer engagement, retention, and conversion rates, focusing on targeted promotional efforts and personalized experiences for different customer groups.
 
 By leveraging RFM analysis and K-Means clustering, businesses can enhance their understanding of customer behavior and refine their marketing strategies to better meet customer needs and preferences.
